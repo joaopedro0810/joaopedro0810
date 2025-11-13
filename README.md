@@ -1,13 +1,16 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/joaopedrocsouza/joaopedrocsouza/assets/banner.png" alt="Banner" width="100%">
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:03234B&height=300&section=header&text=João%20Pedro%20Castro%20de%20Souza&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=38&desc=Senior%20Firmware%20Engineer%20|%20Embedded%20Systems%20|%20Signal%20Processing&descAlignY=55&descAlign=50)
+
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o João Pedro Castro de Souza</h1>
-
-<p align="center">
-  <b>Engenheiro de Firmware Sênior | Sistemas Embarcados | Processamento de Sinais | STM32 • ESP32 • C/C++</b>
-</p>
+</div>
 
 ---
 
