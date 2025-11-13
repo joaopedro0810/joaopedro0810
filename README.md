@@ -70,24 +70,6 @@ Tenho como foco a **performance**, **clean code** e **robustez**, aplicando boas
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaopedrocsouza&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrocsouza&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 📈 Linguagens e Atividade
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrocsouza&layout=compact&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedrocsouza&theme=github_dark" />
-</p>
-
----
-
 ## 📬 Conecte-se comigo
 
 <p align="left">
